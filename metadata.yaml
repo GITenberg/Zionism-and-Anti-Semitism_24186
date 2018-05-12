@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '26300'
     url: http://www.gutenberg.org/2009/agents/26300
 description: Zionism, by M. Nordau.--Anti-Semitism in Europe, by G. Gottheil.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24186#Zionism-and-Anti-Semitism
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2008-01-07'
 gutenberg_type: Text
