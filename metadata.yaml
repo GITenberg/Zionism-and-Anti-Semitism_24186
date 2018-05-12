@@ -1,0 +1,39 @@
+_repo: Zionism-and-Anti-Semitism_24186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Nordau, Max Simon
+    aliases:
+    - Südfeld, Max Simon
+    - Sudfeld, Max Simon
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '1408'
+    url: http://www.gutenberg.org/2009/agents/1408
+    wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
+  - agent_name: Gottheil, Gustav
+    birthdate: 1827
+    deathdate: 1903
+    gutenberg_agent_id: '26300'
+    url: http://www.gutenberg.org/2009/agents/26300
+description: Zionism, by M. Nordau.--Anti-Semitism in Europe, by G. Gottheil.
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Antisemitism'
+- !lcsh 'Zionism'
+- !lcsh 'Jews -- Restoration'
+tableOfContents: Zionism, by M. Nordau -- Anti-Semitism in Europe, by G. Gottheil.
+title: Zionism and Anti-Semitism
+url: http://www.gutenberg.org/ebooks/24186
